@@ -106,4 +106,4 @@ Este projeto é licenciado sob a licença MIT. Consulte o arquivo LICENSE para o
 
 Este projeto segue as diretrizes e estruturas propostas no [roadmap.sh](https://roadmap.sh/projects/caching-server).
 
-- Link para o repositório do projeto: [Expense Tracker](https://github.com/ryan-junio-oliveira/php-caching-proxy).
+- Link para o repositório do projeto: [PHP Caching Proxy Server](https://github.com/ryan-junio-oliveira/php-caching-proxy).
