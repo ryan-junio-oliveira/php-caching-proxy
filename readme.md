@@ -68,8 +68,8 @@ rm -rf cache/*
 ```bash
 .
 ├── cache/               # Diretório onde os arquivos de cache são armazenados
-├── Cache/               # Classe responsável por manipular o cache
-├── Cache/               # Classe de serviço para manipular o cache
+├── Cache.php            # Classe responsável por manipular o cache
+├── CacheService.php     # Classe de serviço para manipular o cache
 ├── proxy.php            # Arquivo principal do servidor proxy
 ├── README.md            # Documentação do projeto
 
