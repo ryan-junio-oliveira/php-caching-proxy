@@ -101,3 +101,9 @@ Sinta-se à vontade para enviar PRs ou abrir problemas com sugestões, correçõ
 ### Licença
 
 Este projeto é licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
+
+## Referências
+
+Este projeto segue as diretrizes e estruturas propostas no [roadmap.sh](https://roadmap.sh/projects/caching-server).
+
+- Link para o repositório do projeto: [Expense Tracker](https://github.com/ryan-junio-oliveira/php-caching-proxy).
